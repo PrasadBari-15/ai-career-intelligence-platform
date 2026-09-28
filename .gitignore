@@ -25,3 +25,10 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Uploaded resumes / personal files
+Backend/uploads/
+
+# Python cache
+Backend/**/__pycache__/
+*.pyc
